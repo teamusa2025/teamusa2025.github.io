@@ -12,6 +12,7 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
+* [Team Contract](#team-contract)
 
 ## Overview
 
@@ -335,3 +336,7 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+
+## Team Contract
+
+Our team contract can be viewed [here](https://docs.google.com/document/d/1KknM4q7407r0Rnnhx9ZoOViNYUF3UhPKtRtRfh242Ok/edit?usp=sharing).
