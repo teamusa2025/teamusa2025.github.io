@@ -88,7 +88,7 @@ Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://githu
 ### Milestone 2: Data model development
 
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 
 ## Walkthrough videos
