@@ -18,11 +18,9 @@
 
 TeamUSA2025 is a web application that integrates excel spreadsheet worksheets to create a user-friendly financial stress testing tool. It is designed for implementing the Fiscal Sustainability Model in a more streamlined and less daunting process than the traditional methods.
 
-The database will be created with the use of [NextJS](https://nextjs.org/) and [PostgreSQL](https://www.postgresql.org/).
+The database will be created with the use of [NextJS](https://nextjs.org/) and [PostgreSQL](https://www.postgresql.org/). **The rest of this page will be updated as the project moves along.**
 
 ## User Guide
-
-This section provides a walkthrough of the TeamUSA2025 user interface and its capabilities. **The rest of this page will be updated as the project moves along.**
 
 
 ### Landing Page
