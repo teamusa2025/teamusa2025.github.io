@@ -80,7 +80,7 @@ This section provides a walkthrough of the TeamUSA2025 user interface and its ca
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 is to create a set of HTML pages that will serve as a mockup of the pages for this project.
+The goal of Milestone 1 is to create a set of mockup HTML pages for this project.
 
 Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1):
 
