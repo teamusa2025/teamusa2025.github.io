@@ -80,7 +80,9 @@ The database will be created with the use of [NextJS](https://nextjs.org/) and [
 
 The goal of Milestone 1 is to create a set of mockup HTML pages for this project.
 
-Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1):
+Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1).
+
+At this time, our team collected [user stories](https://github.com/teamusa2025/teamusa2025-project/discussions/7) to facilitate our project's goals.
 
 
 ### Milestone 2: Data model development
