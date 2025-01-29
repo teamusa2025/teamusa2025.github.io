@@ -21,24 +21,32 @@ TeamUSA2025 is a web application that integrates excel spreadsheet worksheets to
 The database will be created with the use of [NextJS](https://nextjs.org/) and [PostgreSQL](https://www.postgresql.org/). **The rest of this page will be updated as the project moves along.**
 
 ## User Guide
+This web application has a number of distinct roles, specifically: auditor, analyst, executive, and admin.
+
+### Auditor Home Page
+![Auditor Home Page](images/auditor-homepage.png)
+
+### Analyst Home Page
+![Analyst Home Page](images/analyst-homepage.png)
+
+### Analyst Stress Test Editor & Effects
+![Analyst Editor](images/analyst-stressTest.png)
+![Analyst Effects](images/analyst-stressTest2.png)
+
+### Analyst Financial Compilation Page
+![Analyst Financial Compilation Page](images/analyst-financialCompilation.png)
+
+### Executive Stress Test Impact Page
+![Executive Stress Test Impact Page](images/executive-stressTesting.png)
+
+### Executive Model Comparison Page
+![Executive Model Comparison Page](images/executive-modelComparison.png)
+
+### Admin Accounts Manager Page
+![Admin Accounts Manager Page](images/admin-accountsManager.jpg)
 
 
-### Landing Page
-
-
-### Index pages
-
-
-### Sign in and sign up
-
-
-### Home page
-
-
-### Add Project page
-
-
-### Filter page
+### Sign-In Page
 
 
 ## Community Feedback
@@ -78,7 +86,7 @@ The database will be created with the use of [NextJS](https://nextjs.org/) and [
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 is to create a set of mockup HTML pages for this project.
+The goal of Milestone 1 is to create a set of mockup pages for this project.
 
 Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1).
 
