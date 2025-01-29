@@ -51,9 +51,6 @@ Here, Executives can do a side-by-side comparison of different high-level scenar
 ![Admin Accounts Manager Page](images/admin-accountsManager.jpg)
 Admins use this page to add, remove, and change the usernames, passwords, and user roles of the various people who have an account.
 
-### Sign-In Page
-
-
 ## Community Feedback
 
 
