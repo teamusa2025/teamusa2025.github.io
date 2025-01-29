@@ -33,6 +33,7 @@ The Auditor home page contains a table of audited information currently in the d
 ### Analyst Stress Test Editor & Effects
 ![Analyst Editor](images/analyst-stressTest.png)
 ![Analyst Effects](images/analyst-stressTest2.png)
+![Analyst ScenarioOne](images/analyst-scenario1.png)
 The Analyst pages allow an analyst to alter any of 5 stress tests to be toggled on/off in for financial future calculations. Analysts also have access to the residual effects of each test as applied to future projections, and can see the same dashboard of presentable information that the Executive role can. 
 
 ### Analyst Financial Compilation Page
