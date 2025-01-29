@@ -21,25 +21,35 @@ TeamUSA2025 is a web application that integrates excel spreadsheet worksheets to
 The database will be created with the use of [NextJS](https://nextjs.org/) and [PostgreSQL](https://www.postgresql.org/). **The rest of this page will be updated as the project moves along.**
 
 ## User Guide
+This web application involves a number of distinct user roles, specifically: auditor, analyst, executive, and admin. Auditors may add audited data to the database. Analysts make changes to stress tests, which are able to be applied to financial projections. Executives are able to review their sustainability model's projections and apply the analysts' stress tests to see how possible stressors affect final outcomes. Admins are able to see all users, their passwords, and their role(s) and is able to edit and remove them as needed.
 
+### Auditor Home Page
+![Auditor Home Page](images/auditor-homepage.png)
+The Auditor home page contains a table of audited information currently in the database organized by year, as well as the ability to add, change, and correct audited information in the database.
 
-### Landing Page
+### Analyst Home Page
+![Analyst Home Page](images/analyst-homepage.png)
 
+### Analyst Stress Test Editor & Effects
+![Analyst Editor](images/analyst-stressTest.png)
+![Analyst Effects](images/analyst-stressTest2.png)
+The Analyst pages allow an analyst to alter any of 5 stress tests to be toggled on/off in for financial future calculations. Analysts also have access to the residual effects of each test as applied to future projections, and can see the same dashboard of presentable information that the Executive role can. 
 
-### Index pages
+### Analyst Financial Compilation Page
+![Analyst Financial Compilation Page](images/analyst-financialCompilation.png)
+This page allows Analysts to select from and set values for the type of forecast used to calculate financial future projections.
 
+### Executive Stress Test Impact Page
+![Executive Stress Test Impact Page](images/executive-stressTesting.png)
+Executives use this page to understand the company's finances, seeing in real-time the effects different stressors may have on their long-term sustainability.
 
-### Sign in and sign up
+### Executive Model Comparison Page
+![Executive Model Comparison Page](images/executive-modelComparison.png)
+Here, Executives can do a side-by-side comparison of different high-level scenarios, like comparing a recession to business-as-usual.
 
-
-### Home page
-
-
-### Add Project page
-
-
-### Filter page
-
+### Admin Accounts Manager Page
+![Admin Accounts Manager Page](images/admin-accountsManager.jpg)
+Admins use this page to add, remove, and change the usernames, passwords, and user roles of the various people who have an account.
 
 ## Community Feedback
 
@@ -78,7 +88,7 @@ The database will be created with the use of [NextJS](https://nextjs.org/) and [
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 is to create a set of mockup HTML pages for this project.
+The goal of Milestone 1 is to create a set of mockup pages for this project.
 
 Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1).
 
