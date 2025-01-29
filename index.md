@@ -89,6 +89,8 @@ Admins use this page to add, remove, and change the usernames, passwords, and us
 
 ### Milestone 1: Mockup development
 
+[Milestone 1](https://github.com/orgs/teamusa2025/projects/1/views/1)
+
 The goal of Milestone 1 is to create a set of mockup pages for this project.
 
 Milestone 1 is managed using [TeamUSA2025 GitHub Project Board M1](https://github.com/orgs/teamusa2025/projects/1).
@@ -98,6 +100,7 @@ At this time, our team collected [user stories](https://github.com/teamusa2025/t
 
 ### Milestone 2: Data model development
 
+[Milestone 2](https://github.com/orgs/teamusa2025/projects/2)
 
 ### Milestone 3: Final touches
 
