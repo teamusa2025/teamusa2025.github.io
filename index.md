@@ -83,6 +83,7 @@ Admins use this page to add, remove, and change the usernames, passwords, and us
 
 ## Continuous Integration
 
+![TestCafe Tests](https://github.com/teamusa2025/teamusa2025-project/actions/workflows/testcafe.yml/badge.svg)
 
 ## Development History
 
